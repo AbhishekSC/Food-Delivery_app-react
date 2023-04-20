@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Food-Delivery_app-react/static/css/main.66ce5451.css",
+    "main.js": "/Food-Delivery_app-react/static/js/main.915a35d3.js",
+    "static/js/787.94c44e5c.chunk.js": "/Food-Delivery_app-react/static/js/787.94c44e5c.chunk.js",
+    "static/media/meal-2.jpg": "/Food-Delivery_app-react/static/media/meal-2.5116fc5aa900c5375553.jpg",
+    "static/media/meal-1.jpg": "/Food-Delivery_app-react/static/media/meal-1.cae8db9f114ddc4fffe9.jpg",
+    "static/media/meal-4.jpg": "/Food-Delivery_app-react/static/media/meal-4.623fbbf026d9360738e1.jpg",
+    "static/media/meal-3.jpg": "/Food-Delivery_app-react/static/media/meal-3.66d31acaf2b145b6a0c5.jpg",
+    "static/media/DUMMY_MEAL_img.jpg": "/Food-Delivery_app-react/static/media/DUMMY_MEAL_img.18097319b27be6c89dab.jpg",
+    "index.html": "/Food-Delivery_app-react/index.html",
+    "main.66ce5451.css.map": "/Food-Delivery_app-react/static/css/main.66ce5451.css.map",
+    "main.915a35d3.js.map": "/Food-Delivery_app-react/static/js/main.915a35d3.js.map",
+    "787.94c44e5c.chunk.js.map": "/Food-Delivery_app-react/static/js/787.94c44e5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ce5451.css",
+    "static/js/main.915a35d3.js"
+  ]
+}
